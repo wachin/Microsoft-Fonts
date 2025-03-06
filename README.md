@@ -356,7 +356,7 @@ This list includes common Windows fonts and their corresponding filenames. Some 
 
 Agency Agency FB
 Algerian
-Antique (Book Antique)
+Book Antique
 Arial
 Bahnschrift
 Baskerville Old Face
@@ -374,7 +374,7 @@ Britannic Bold
 Berlin Sans FB
 Broadway
 Brush Script MT
-Bookshelf Symbol 7 Bookshelf Symbol 7 (simbols)
+Bookshelf Symbol 7
 Calibri
 Californian FB
 Calisto MT
@@ -456,7 +456,7 @@ Magneto
 Maiandra GD
 Malgun Gothic
 Malgun Gothic Semilight
-Marlett  (Marlett)
+Marlett
 Matura MT Script Capitals
 Microsoft Sans Serif
 MingLiU-ExtB
@@ -470,7 +470,7 @@ Microsoft Uighur
 Microsoft YaHei
 Microsoft Yi Baiti
 Monotype Corsiva
-MT Extra  (MT Extra)
+MT Extra
 MV Boli
 Niagara Engraved
 Niagara Solid
@@ -480,7 +480,7 @@ Microsoft New Tai Lue
 OCR A Extended
 Old English Text MT
 Onyx
-Outlook ()         MS Outlook (símbols)
+MS Outlook
 Palatino Linotype
 Papyrus
 Parchment
@@ -528,6 +528,6 @@ Verdana
 Viner Hand ITC
 Vivaldi
 Vladimir Script
-Webdings Webdings (símbolos)
-Wingdings Wingdings (símbolos)
+Webdings
+Wingdings
 Yu Gothic
