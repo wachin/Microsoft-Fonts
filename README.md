@@ -9,32 +9,32 @@ This fixes foreign chars in youtube and other apps/sites
 
 Here's a list of the real names corresponding to the Windows font files:
 
-- **AGENCYB.TTF** - Agency FB Bold
-- **AGENCYR.TTF** - Agency FB Regular
-- **ALGER.TTF** - Algerian
-- **ANTQUAB.TTF** - Book Antique Bold
-- **ANTQUABI.TTF** - Book Antique Bold Italic
-- **ANTQUAI.TTF** - Antique Olive Italic
-- **arial.ttf** - Arial Regular
-- **arialbd.ttf** - Arial Bold
-- **arialbi.ttf** - Arial Bold Italic
-- **ariali.ttf** - Arial Italic
-- **ARIALN.TTF** - Arial Narrow
-- **ARIALNB.TTF** - Arial Narrow Bold
-- **ARIALNBI.TTF** - Arial Narrow Bold Italic
-- **ARIALNI.TTF** - Arial Narrow Italic
-- **ariblk.ttf** - Arial Black
-- **ARLRDBD.TTF** - Arial Rounded MT Bold
-- **bahnschrift.ttf** - Bahnschrift
-- **BASKVILL.TTF** - Baskerville Old Face
-- **BAUHS93.TTF** - Bauhaus 93
-- **BELL.TTF** - Bell MT Regular
-- **BELLB.TTF** - Bell MT Bold
-- **BELLI.TTF** - Bell MT Italic
-- **BERNHC.TTF** - Bernard MT Condensed
-- **BKANT.TTF** - Book Antiqua Regular
-- **BOD_B.TTF** - Bodoni MT Bold
-- **BOD_BI.TTF** - Bodoni MT Bold Italic
+- **AGENCYB.TTF** - Agency FB Bold  
+- **AGENCYR.TTF** - Agency FB Regular  
+- **ALGER.TTF** - Algerian  
+- **ANTQUAB.TTF** - Book Antique Bold  
+- **ANTQUABI.TTF** - Book Antique Bold Italic  
+- **ANTQUAI.TTF** - Antique Olive Italic  
+- **arial.ttf** - Arial Regular  
+- **arialbd.ttf** - Arial Bold  
+- **arialbi.ttf** - Arial Bold Italic  
+- **ariali.ttf** - Arial Italic  
+- **ARIALN.TTF** - Arial Narrow  
+- **ARIALNB.TTF** - Arial Narrow Bold  
+- **ARIALNBI.TTF** - Arial Narrow Bold Italic  
+- **ARIALNI.TTF** - Arial Narrow Italic  
+- **ariblk.ttf** - Arial Black  
+- **ARLRDBD.TTF** - Arial Rounded MT Bold  
+- **bahnschrift.ttf** - Bahnschrift  
+- **BASKVILL.TTF** - Baskerville Old Face  
+- **BAUHS93.TTF** - Bauhaus 93  
+- **BELL.TTF** - Bell MT Regular  
+- **BELLB.TTF** - Bell MT Bold  
+- **BELLI.TTF** - Bell MT Italic  
+- **BERNHC.TTF** - Bernard MT Condensed  
+- **BKANT.TTF** - Book Antiqua Regular  
+- **BOD_B.TTF** - Bodoni MT Bold  
+- **BOD_BI.TTF** - Bodoni MT Bold Italic  
 - **BOD_BLAI.TTF** - Bodoni MT Black Italic
 - **BOD_BLAR.TTF** - Bodoni MT Black
 - **BOD_CB.TTF** - Bodoni MT Condensed Bold
