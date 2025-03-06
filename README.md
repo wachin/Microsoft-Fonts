@@ -157,7 +157,7 @@ Here's a list of the real names corresponding to the Windows font:
 - **GILI____.TTF** - Gill Sans MT Italic
 - **GILLUBCD.TTF** - Gill Sans Ultra Bold Condensed
 - **GILSANUB.TTF** - Gill Sans Ultra Bold
-- **GLECB.TTF** - Glencoe Regular
+- **GLECB.TTF** - Gloucester MT Extra Condensed
 - **GLSNECB.TTF** - Glencoe Light
 - **GOTHIC.TTF** - Century Gothic Regular
 - **GOTHICB.TTF** - Century Gothic Bold
@@ -171,22 +171,22 @@ Here's a list of the real names corresponding to the Windows font:
 - **HARNGTON.TTF** - Harrington Regular
 - **HATTEN.TTF** - Haettenschweiler Regular
 - **himalaya.ttf** - Microsoft Himalaya
-- **holomdl2.ttf** - Holmd System Font
+- **holomdl2.ttf** - HoloLens MDL2 Assets
 - **HTOWERT.TTF** - High Tower Text Regular
 - **HTOWERTI.TTF** - High Tower Text Italic
 - **impact.ttf** - Impact Regular
 - **IMPRISHA.TTF** - Imprint MT Shadow
 - **INFROMAN.TTF** - Informal Roman Regular
 - **Inkfree.ttf** - Ink Free Regular
-- **ITCBLKAD.TTF** - ITC Blackadder Regular
-- **ITCEDSCR.TTF** - ITC Edwardian Script Regular
-- **ITCKRIST.TTF** - ITC Kristen Regular
+- **ITCBLKAD.TTF** - Blackadder ITC Regular
+- **ITCEDSCR.TTF** - Edwardian ITC Script Regular
+- **ITCKRIST.TTF** - Kristen ITC Regular
 - **javatext.ttf** - Javanese Text Regular
 - **JOKERMAN.TTF** - Jokerman Regular
 - **JUICE___.TTF** - Juice ITC Regular
 - **KUNSTLER.TTF** - Kunstler Script Regular
 - **l_10646.ttf** - Lucida Sans Unicode
-- **LATINWD.TTF** - Latin Wide Regular
+- **LATINWD.TTF** - Wide Latin Regular
 - **LBRITE.TTF** - Lucida Bright Regular
 - **LBRITED.TTF** - Lucida Bright Demibold
 - **LBRITEDI.TTF** - Lucida Bright Demibold Italic
@@ -243,12 +243,12 @@ Here's a list of the real names corresponding to the Windows font:
 - **Nirmala.ttf** - Nirmala UI Regular
 - **NirmalaB.ttf** - Nirmala UI Bold
 - **NirmalaS.ttf** - Nirmala UI Semilight
-- **ntailu.ttf** - Noto Sans UI Regular
-- **ntailub.ttf** - Noto Sans UI Bold
+- **ntailu.ttf** - Microsoft New Tai Lue
+- **ntailub.ttf** - Microsoft New Tai Lue Bold
 - **OCRAEXT.TTF** - OCR A Extended Regular
 - **OLDENGL.TTF** - Old English Text MT Regular
 - **ONYX.TTF** - Onyx Regular
-- **OUTLOOK.TTF** - Outlook Regular
+- **OUTLOOK.TTF** - MS Outlook Regular (simbols)
 - **pala.ttf** - Palatino Linotype Regular
 - **palab.ttf** - Palatino Linotype Bold
 - **palabi.ttf** - Palatino Linotype Bold Italic
