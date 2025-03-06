@@ -354,25 +354,25 @@ This list includes common Windows fonts and their corresponding filenames. Some 
 
 ## Only Font Names
 
-Agency Agency FB
-Algerian
-Book Antique
-Arial
-Bahnschrift
-Baskerville Old Face
-Bauhaus 93
-Bell MT
-Bernard MT Condensed
-Book Antiqua
-Bodoni MT
-Bodoni MT Black
-Bodoni MT Condensed
-Bodoni MT Poster Compressed
-Bookman Old Style
-Bradley Hand ITC
-Britannic Bold
-Berlin Sans FB
-Broadway
+Agency Agency FB  
+Algerian  
+Book Antique  
+Arial  
+Bahnschrift  
+Baskerville Old Face  
+Bauhaus 93  
+Bell MT  
+Bernard MT Condensed  
+Book Antiqua  
+Bodoni MT  
+Bodoni MT Black  
+Bodoni MT Condensed  
+Bodoni MT Poster Compressed  
+Bookman Old Style  
+Bradley Hand ITC  
+Britannic Bold  
+Berlin Sans FB  
+Broadway  
 Brush Script MT
 Bookshelf Symbol 7
 Calibri
