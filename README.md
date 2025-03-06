@@ -262,7 +262,7 @@ Here's a list of the real names corresponding to the Windows font:
 - **PERI____.TTF** - Perpetua Italic
 - **PERTIBD.TTF** - Perpetua Titling MT Bold
 - **PERTILI.TTF** - Perpetua Titling MT Light
-- **phagspa.ttf** - PhagsPa Regular
+- **phagspa.ttf** - Microsoft PhagsPa Regular
 - **phagspab.ttf** - PhagsPa Bold
 - **PLAYBILL.TTF** - Playbill Regular
 - **POORICH.TTF** - Poor Richard Regular
@@ -278,9 +278,9 @@ Here's a list of the real names corresponding to the Windows font:
 - **ROCKBI.TTF** - Rockwell Bold Italic
 - **ROCKEB.TTF** - Rockwell Extra Bold
 - **ROCKI.TTF** - Rockwell Italic
-- **SCHLBKB.TTF** - Schneidler Blk BT Bold
-- **SCHLBKBI.TTF** - Schneidler Blk BT Bold Italic
-- **SCHLBKI.TTF** - Schneidler Blk BT Italic
+- **SCHLBKB.TTF** - Century Schoolbook Bold
+- **SCHLBKBI.TTF** - Century Schoolbook Bold Italic
+- **SCHLBKI.TTF** - Century Schoolbook Italic
 - **SCRIPTBL.TTF** - Script MT Bold
 - **segmdl2.ttf** - Segoe MDL2 Assets
 - **segoepr.ttf** - Segoe Print Regular
