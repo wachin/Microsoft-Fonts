@@ -354,7 +354,7 @@ This list includes common Windows fonts and their corresponding filenames. Some 
 
 ## Only Font Names
 
-Agency Agency FB  
+Agency FB  
 Algerian  
 Book Antique  
 Arial  
