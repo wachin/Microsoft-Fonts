@@ -373,161 +373,163 @@ Bradley Hand ITC
 Britannic Bold  
 Berlin Sans FB  
 Broadway  
-Brush Script MT
-Bookshelf Symbol 7
-Calibri
-Californian FB
-Calisto MT
-Cambria
-Candara
-Castellar
-Century Schoolbook
-Centaur
-Century
-Chiller
-Colonna MT
-Comic Sans MS
-Consolas
-Constantia
-Cooper Black
-Copperplate Gothic Bold
-Copperplate Gothic Light
-Corbel
-Courier New
-Curlz MT
-Dubai
-Ebrima
-Elephant
-Engravers MT
-Eras Bold ITC
-Eras Demi ITC
-Eras Light ITC
-Eras Medium ITC
-Felix Titling
-Forte
-Franklin Gothic Book
-Freestyle Script
-French Script MT
-Footlight MT Light
-Gabriola
-Gadugi
-Garamond
-Georgia
-Gigi
-Gill Sans MT
-Gill Sans MT Condensed
-Gill Sans MT Ext Condensed
-Gill Sans Ultra Bold
-Gill Sans Ultra Bold Condensed
-Gloucester MT Extra Condensed
-Century Gothic
-Goudy Old Style
-Goudy Stout
-Harlow Solid Italic
-Harrington
-Haettenschweiler
-Microsoft Himalaya
-HoloLens MDL2 Assets
-High Tower Text
-Impact
-Imprint MT Shadow
-Informal Roman
-Ink Free
-Blackadder ITC
-Edwardian Script ITC
-Kristen ITC
-Javanese Text
-Jokerman
-Juice ITC
-Kunstler Script
-Lucida Sans Unicode
-Wide Latin
-Lucida Bright
-Lucida Calligraphy
-Leelawadee
-Leelawadee UI
-Leelawadee UI Semilight
-Lucida Fax
-Lucida Handwriting
-Lucida Sans
-Lucida Sans Typewriter
-Lucida Console
-Magneto
-Maiandra GD
-Malgun Gothic
-Malgun Gothic Semilight
-Marlett
-Matura MT Script Capitals
-Microsoft Sans Serif
-MingLiU-ExtB
-Mistral
-Myanmar Text
-Modern No. 20
-Mongolian Baiti
-MS Gothic
-Microsoft JhengHei
-Microsoft Uighur
-Microsoft YaHei
-Microsoft Yi Baiti
-Monotype Corsiva
-MT Extra
-MV Boli
-Niagara Engraved
-Niagara Solid
-Nirmala UI
-Nirmala UI Semilight
-Microsoft New Tai Lue
-OCR A Extended
-Old English Text MT
-Onyx
-MS Outlook
-Palatino Linotype
-Papyrus
-Parchment
-Perpetua
-Perpetua Titling MT
-Microsoft PhagsPa
-Playbill
-Poor Richard
-Pristina
-Rage Italic
-Ravie
-MS Reference Sans Serif
-Rockwell
-Script MT Bold
-Segoe MDL2 Assets
-Segoe Print
-Segoe Script
-Segoe UI
-Segoe UI Light
-Segoe UI Semilight
-Segoe UI Bold
-Segoe UI Black
-Segoe UI Emoji
-Segoe UI Historic
-Segoe UI Light
-Segoe UI Semibold
-Segoe UI Symbol
-Showcard Gothic
-SimSum
-Sitka Text
-Snap ITC
-Stencil
-Sylfaen
-Symbol
-Tahoma
-Tai Le UI
-Tw Cen MT
-Tw Cen MT Condensed
-Tw Cen MT Extra Bold
-Tempus Sans ITC
-Times New Roman
-Trebuchet MS
-Unispace
-Verdana
-Viner Hand ITC
-Vivaldi
-Vladimir Script
-Webdings
-Wingdings
-Yu Gothic
+Brush Script MT  
+Bookshelf Symbol 7  
+Calibri  
+Californian FB  
+Calisto MT  
+Cambria  
+Candara  
+Castellar  
+Century Schoolbook  
+Centaur  
+Century  
+Chiller  
+Colonna MT  
+Comic Sans MS  
+Consolas  
+Constantia  
+Cooper Black  
+Copperplate Gothic Bold  
+Copperplate Gothic Light  
+Corbel  
+Courier New  
+Curlz MT  
+Dubai  
+Ebrima  
+Elephant  
+Engravers MT  
+Eras Bold ITC  
+Eras Demi ITC  
+Eras Light ITC  
+Eras Medium ITC  
+Felix Titling  
+Forte  
+Franklin Gothic Book  
+Freestyle Script  
+French Script MT  
+Footlight MT Light  
+Gabriola  
+Gadugi  
+Garamond  
+Georgia  
+Gigi  
+Gill Sans MT  
+Gill Sans MT Condensed  
+Gill Sans MT Ext Condensed  
+Gill Sans Ultra Bold  
+Gill Sans Ultra Bold Condensed  
+Gloucester MT Extra Condensed  
+Century Gothic  
+Goudy Old Style  
+Goudy Stout  
+Harlow Solid Italic  
+Harrington  
+Haettenschweiler  
+Microsoft Himalaya  
+HoloLens MDL2 Assets  
+High Tower Text  
+Impact  
+Imprint MT Shadow  
+Informal Roman  
+Ink Free  
+Blackadder ITC  
+Edwardian Script ITC  
+Kristen ITC  
+Javanese Text  
+Jokerman  
+Juice ITC  
+Kunstler Script  
+Lucida Sans Unicode  
+Wide Latin  
+Lucida Bright  
+Lucida Calligraphy  
+Leelawadee  
+Leelawadee UI  
+Leelawadee UI Semilight  
+Lucida Fax  
+Lucida Handwriting  
+Lucida Sans  
+Lucida Sans Typewriter  
+Lucida Console  
+Magneto  
+Maiandra GD  
+Malgun Gothic  
+Malgun Gothic Semilight  
+Marlett  
+Matura MT Script Capitals  
+Microsoft Sans Serif  
+MingLiU-ExtB  
+Mistral  
+Myanmar Text  
+Modern No. 20  
+Mongolian Baiti  
+MS Gothic  
+Microsoft JhengHei  
+Microsoft Uighur  
+Microsoft YaHei  
+Microsoft Yi Baiti  
+Monotype Corsiva  
+MT Extra  
+MV Boli  
+Niagara Engraved  
+Niagara Solid  
+Nirmala UI  
+Nirmala UI Semilight  
+Microsoft New Tai Lue  
+OCR A Extended  
+Old English Text MT  
+Onyx  
+MS Outlook  
+Palatino Linotype  
+Papyrus  
+Parchment  
+Perpetua  
+Perpetua Titling MT  
+Microsoft PhagsPa  
+Playbill  
+Poor Richard  
+Pristina  
+Rage Italic  
+Ravie  
+MS Reference Sans Serif  
+Rockwell  
+Script MT Bold  
+Segoe MDL2 Assets  
+Segoe Print  
+Segoe Script  
+Segoe UI  
+Segoe UI Light  
+Segoe UI Semilight  
+Segoe UI Bold  
+Segoe UI Black  
+Segoe UI Emoji  
+Segoe UI Historic  
+Segoe UI Light  
+Segoe UI Semibold  
+Segoe UI Symbol  
+Showcard Gothic  
+SimSum  
+Sitka Text  
+Snap ITC  
+Stencil  
+Sylfaen  
+Symbol  
+Tahoma  
+Tai Le UI  
+Tw Cen MT  
+Tw Cen MT Condensed  
+Tw Cen MT Extra Bold  
+Tempus Sans ITC  
+Times New Roman  
+Trebuchet MS  
+Unispace  
+Verdana  
+Viner Hand ITC  
+Vivaldi  
+Vladimir Script  
+Webdings  
+Wingdings  
+Yu Gothic  
+  
+ 
