@@ -5,6 +5,9 @@ Clone the repo to ~/.fonts
 
 This fixes foreign chars in youtube and other apps/sites
 
+**Explanation of these Fonts in Spanish**
+[README_ES.md](https://github.com/wachin/Microsoft-Fonts/blob/main/README_ES.md)
+
 ## Microsoft Font list
 
 Here's a list of the real names corresponding to the Windows font files:
