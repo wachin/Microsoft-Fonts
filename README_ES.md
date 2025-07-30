@@ -5,6 +5,9 @@ Clonar el repositorio a ~/.fonts
 
 Esto corrige los caracteres externos en YouTube y otras aplicaciones/sitios
 
+**Además mira la vista previa de estas fuentes en PDF**
+[01%20Text%20with%20fonts%20and%20their%20names.pdf](https://github.com/wachin/Microsoft-Fonts/blob/main/01%20Text%20with%20fonts%20and%20their%20names.pdf)
+
 ## Lista de fuentes de Microsoft
 
 A continuación, se incluye una lista de los nombres reales correspondientes a los archivos de fuentes de Windows:
