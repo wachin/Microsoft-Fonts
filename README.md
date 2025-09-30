@@ -12,17 +12,10 @@ This fixes foreign chars in youtube and other apps/sites
 [01%20Text%20with%20fonts%20and%20their%20names.pdf](https://github.com/wachin/Microsoft-Fonts/blob/main/01%20Text%20with%20fonts%20and%20their%20names.pdf)
 
 ![](Image/pagina-1.png)
-
-
 ![](Image/pagina-2.png)
-
-
 ![](Image/pagina-3.png)
-
 ![](Image/pagina-4.png)
-
 ![](Image/pagina-5.png)
-
 ![](Image/pagina-6.png)
 
 ## Microsoft Font list
