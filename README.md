@@ -11,6 +11,8 @@ This fixes foreign chars in youtube and other apps/sites
 **Also see the font preview in PDF**
 [01%20Text%20with%20fonts%20and%20their%20names.pdf](https://github.com/wachin/Microsoft-Fonts/blob/main/01%20Text%20with%20fonts%20and%20their%20names.pdf)
 
+![](Image/pagina-1.png)
+
 ## Microsoft Font list
 
 Here's a list of the real names corresponding to the Windows font files:
