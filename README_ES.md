@@ -8,6 +8,13 @@ Esto corrige los caracteres externos en YouTube y otras aplicaciones/sitios
 **Además mira la vista previa de estas fuentes en PDF**
 [01%20Text%20with%20fonts%20and%20their%20names.pdf](https://github.com/wachin/Microsoft-Fonts/blob/main/01%20Text%20with%20fonts%20and%20their%20names.pdf)
 
+![](Image/pagina-1.png)
+![](Image/pagina-2.png)
+![](Image/pagina-3.png)
+![](Image/pagina-4.png)
+![](Image/pagina-5.png)
+![](Image/pagina-6.png)
+
 ## Lista de fuentes de Microsoft
 
 A continuación, se incluye una lista de los nombres reales correspondientes a los archivos de fuentes de Windows:
