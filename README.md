@@ -13,6 +13,18 @@ This fixes foreign chars in youtube and other apps/sites
 
 ![](Image/pagina-1.png)
 
+
+![](Image/pagina-2.png)
+
+
+![](Image/pagina-3.png)
+
+![](Image/pagina-4.png)
+
+![](Image/pagina-5.png)
+
+![](Image/pagina-6.png)
+
 ## Microsoft Font list
 
 Here's a list of the real names corresponding to the Windows font files:
