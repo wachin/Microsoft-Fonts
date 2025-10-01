@@ -546,6 +546,8 @@ Yu Gothic
 
 ## Fuentes alternativas gratuitas
 
+Y la siguiente es una tabla con una sección de "Alternativa de Software Libre" que puedes buscar e instalar para usarlas en vez de las de Windows:
+
 |   **Fuente de Windows**    |                         **Alternativa de Software Libre**                          |                    **Uso Común en Documentos**                     |                                      **Notas**                                       |
 |----------------------------|------------------------------------------------------------------------------------|---------------------------------------------------------------------|-------------------------------------------------------------------------------------|
 | Agency FB                  | **Roboto** o **Liberation Sans**                                                   | Títulos, encabezados                                               | Fuente sans-serif estándar y versátil.                                              |

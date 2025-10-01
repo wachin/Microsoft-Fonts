@@ -548,6 +548,8 @@ Yu Gothic
  
 ## Free Alternative Fonts:
 
+And the following is a table with a "Free Software Alternative" section that you can search for and install to use instead of Windows:
+
 | **Windows Font**           | **Free Software Alternative**                                                     | **Common Use in Documents**                                        | **Notes**                                                                           |
 |----------------------------|----------------------------------------------------------------------------------|--------------------------------------------------------------------|-------------------------------------------------------------------------------------|
 | Agency FB                  | **Roboto** or **Liberation Sans**                                                | Titles, headings                                                  | Standard and versatile sans-serif font.                                             |
