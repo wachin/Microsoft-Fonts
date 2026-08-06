@@ -1,11 +1,30 @@
 # Microsoft-Fonts
-Microsoft Fonts for usage in Linux
 
-Clone the repo to ~/.fonts
+Microsoft Fonts for usage in Linux. This fixes foreign chars in youtube and other apps/sites
 
+### Where to install fonts on Linux
 
+Many old guides recommend copying fonts to `~/.fonts`. That still works, but Debian 13's Fontconfig marks `/etc/fonts/fonts.conf`  that path for future removal "<!-- the following element will be removed in the future --> <dir>~/.fonts</dir>". 
 
-This fixes foreign chars in youtube and other apps/sites
+The recommended user location is:
+
+```
+~/.local/share/fonts
+```
+
+For system-wide installation (all users), use:
+
+```
+/usr/share/fonts/truetype/windows
+```
+
+But if it still works on your system:
+
+`~/.fonts`
+
+use it.
+
+After copying fonts, restart WPS Office (and any other program that was already open) so it reloads the font list. In most cases Fontconfig detects new fonts automatically; run `fc-cache -fv` only if a program does not see them.
 
 **Explanation of these Fonts in Spanish**  
 [README_ES.md](https://github.com/wachin/Microsoft-Fonts/blob/main/README_ES.md)
