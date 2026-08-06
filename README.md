@@ -550,5 +550,5 @@ Yu Gothic
 ---
 
 ### 1. **Font Licenses**
-   - **Windows Fonts**: Most Windows fonts are proprietary and protected by copyright. 
+   - **Windows Fonts**: Windows fonts are proprietary and protected by copyright. 
    - **Legal Implications**: It’s important to understand these licenses to avoid legal issues when using or redistributing fonts, especially in professional or commercial environments.
